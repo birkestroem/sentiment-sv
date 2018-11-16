@@ -1,0 +1,8 @@
+{
+  "name": "sentiment-sv",
+  "description": "Contains the AFINN-sv-165 data from https://github.com/fnielsen/afinn/blob/master/afinn/data/AFINN-sv-165.txt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jesper Birkestrøm <jesper@birkestroem.dk>",
+  "license": "MIT"
+}
